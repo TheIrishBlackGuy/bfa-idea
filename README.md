@@ -43,3 +43,49 @@ are there tools?
 what is the ending?
 - exiting sjsu
 - into an open world
+
+
+
+
+
+
+Level 1 : Geashill
+  my room -> hallway1
+      - find backpack
+  sis room(ella playing guitar) -> hallway1
+  kitchen(b at oven/board) -> hallway1
+  living room(amo watching tv) -> hallway2
+  hallway1 -> hallway2, my room, sis room, kitchen
+  hallway2(boots at door) -> hallway1, living room, exit
+
+  Exit - requires 1 item(s) to move to clonaghadoo
+
+  Ireland Map -> clonaghadoo, mountmellick, airport
+
+Level 2 : Clonaghadoo
+  Clonaghadoo -> ireland map, corridor, field
+  Corridor -> classroom, auditorium, clonaghadoo
+  Classroom -> corridor
+      - find pencil
+  Auditorium -> corridor
+      - find microphone
+  Field -> clonaghadoo, corridor
+      - find football
+  
+  Clonaghadoo - requires 4 items to move to mountmellick
+
+  Ireland Map -> clonaghadoo, mountmellick, airport
+
+Level 3 : Mountmellick
+  Mountmellick -> ireland map, MCS hall 
+  MCS hall -> cafeteria, art room
+  Cafeteria(bully) -> MCS hall
+  Art room ->
+      - find sketchbook
+
+  mountmellick - requires 5 items to move to airport
+
+  Ireland Map -> clonaghadoo, mountmellick, airport
+
+Level 4 : Laguna
+  
