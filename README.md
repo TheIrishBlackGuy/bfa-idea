@@ -68,7 +68,7 @@ Level 2 : Clonaghadoo
   Classroom -> corridor
       - find pencil
   Auditorium -> corridor
-      - find microphone
+      - hint at microphone
   Field -> clonaghadoo, corridor
       - find football
   
@@ -87,5 +87,80 @@ Level 3 : Mountmellick
 
   Ireland Map -> clonaghadoo, mountmellick, airport
 
+  USA map -> laguna, slohs, cuesta, walmart, movies, sjsu
+
+
+  
 Level 4 : Laguna
+  Laguna -> field, class, sloteens
+  pe field(meet tim soccer)
+  english class(meet erik)
+  sloteens?
+    - find video game controler
+  cafe/auditorium
+    - find microphone
+
+
+
+Level 5 : SLOHS
+  film room(meet roper and older tim)
+  shop classes
+  library(meet the crew)
+  
+  
+
+Level 6 : Cuesta
+  radio lab
+  film room
+
+  covid
+  discord
+  minecraft
+
+
+
+Level 7 : Walmart
+
+  mark
+
+
+
+Level 8 : Movies
+
+  tim again
+
+
+
+Level 9 : SJSU
+  
+  dorm life
+  art building
+  library
+  SU
+  survivors
+  DMF
+  bumasses
+
+
+
+Level 10 : TBC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
