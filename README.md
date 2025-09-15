@@ -92,7 +92,7 @@ Level 3 : Mountmellick
 
   
 Level 4 : Laguna
-  Laguna -> field, class, sloteens
+  Laguna -> field, class, sloteens,cafe
   pe field(meet tim soccer)
   english class(meet erik)
   sloteens?
@@ -117,29 +117,51 @@ Level 6 : Cuesta
   discord
   minecraft
 
-
-
 Level 7 : Walmart
 
-  mark
-
-
+parking lot
+- arm and leg days
+- meet Mark
+store
+- meet Stephen 
+- argue if avatar is an anime
+- also game talk
+break room
+- meet Laura
 
 Level 8 : Movies
 
-  tim again
+lobby
+  - tim again
+snack bar
+- meet grace and tyler
+- free popcorn
+theater 1 2 3 4
+- small, meet lily
+- big, meet grace
+- medium, meet tyler
+- haunted,ghost?
 
 
-
-Level 9 : SJSU
+Level 9 : SJSU(very much so organize this map)
+important things to find(cat, bfa port with survivors, 
   
-  dorm life
-  art building
-  library
-  SU
-  survivors
-  DMF
-  bumasses
+-  dorm liferoutes?
+-- 5th, 8th floors and rmmtes?
+
+ 2nd floor
+-  art building
+-- art101
+
+-  SU
+-- bfa port.
+-- survivors 
+
+3rd floor
+- cat
+
+ - DMF
+ - bumasses
 
 
 
