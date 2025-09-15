@@ -13,7 +13,7 @@ the idea
   
 - collect items to bring to inventory
 - grid based
-- - pokemon(pixel games, not recent)
+- - pokemon(pixel games, gen 4)
 
 make in google slides(likem Magic the Noah)
 - menu
@@ -23,9 +23,10 @@ what is the character?
 - me?
 - ibg?
 - other?
+- new chibi IBG inspired me(OG megaman style?)
 
 what is the theme?
-- my art story
+- my story
 
 what is the environment?
 - various buildings/locations
@@ -44,7 +45,7 @@ what is the ending?
 - exiting sjsu
 - into an open world
 
-
+blurbs about each scene or characters
 
 
 
