@@ -1,3 +1,6 @@
+https://theirishblackguy.github.io/bfa-idea/1geashill/index.html
+make a start screen
+
 # bfa-idea
 just a remote place to try add stuff for my bfa stuff
 
