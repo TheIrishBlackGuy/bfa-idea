@@ -162,8 +162,8 @@ important things to find(cat, bfa port with survivors,
 -- survivors 
 
 3rd floor
-- cat
-
+- cat(give clown hat / honk)
+- irene
  - DMF
  - bumasses
 
