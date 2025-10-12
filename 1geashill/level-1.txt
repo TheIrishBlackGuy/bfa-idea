@@ -1,0 +1,16 @@
+NPCs: 
+    Sister
+    Dad
+    Mom
+    Boots
+
+Collectibles:
+    Backpack
+
+Rooms:
+    My Room
+    Sis's Room
+    Kitchen
+    Living Room
+    Hallway 1
+    Hallway 2
