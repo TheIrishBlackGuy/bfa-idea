@@ -1,4 +1,4 @@
-https://theirishblackguy.github.io/bfa-idea/1geashill/index.html
+https://theirishblackguy.github.io/bfa-idea/index.html
 make a start screen
 
 # bfa-idea
