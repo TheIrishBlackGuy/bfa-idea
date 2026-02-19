@@ -18,7 +18,6 @@ level:
 - - final semester
 
 asset:
-
 - family
 - - ella
 - - mom 
@@ -51,11 +50,21 @@ asset:
 
 - - - darren?
 - - - beckett?
-- - - andre?
+- - - andre
 - - - rini?
 - - - evee?
 
-- - - brandon
+- - - brandon?
 - - - sophia
 - - - akari
 - - - blair
+
+background:
+- geashill
+- clonaghadoo/mcs
+- laguna
+- slohs
+- cuesta
+- walmart/movie theater
+- SJSU 
+
