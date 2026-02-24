@@ -18,7 +18,6 @@ level:
 - - final semester
 
 asset:
-
 - family
 - - ella
 - - mom 
@@ -59,3 +58,27 @@ asset:
 - - - sophia
 - - - akari
 - - - blair
+
+bfa plan:
+- write stories
+- - figure out key details 
+- - summarize stories
+- - combine chapters if not enough content for 1 level
+- code stories
+- - figure out html layout 
+- interactive code
+- - how to navigate thru stories
+- - what is clickable to where
+- - can i make inventory/memory bank thing for items
+- all the css
+- assets(pixel art)
+- - backgrounds
+- - - chibi(small scale) locations of levels
+- - items
+- - characters
+- - - family
+- - - oldest friends
+- - - other friends
+- - - survivors 
+- - - bumasses
+- - - - can't do all, narrow down who 
