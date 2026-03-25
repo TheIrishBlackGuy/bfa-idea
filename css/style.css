@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(29, 103, 41);
+    text-align: center;
+}
+
+.icon-container {
+    display: flex;
+    gap: 100px;
+    padding-top: 5px;
+    padding-left: 5px;
+    font-size: 11px;
+    /* width:32px; */
+    /* width: 48px; */
+}

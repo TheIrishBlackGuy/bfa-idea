@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Paytone+One&display=swap');
+
+h1 {
+    font-family: 'Paytone One', sans-serif;
+}
+
+h3 {
+    font-family: 'Paytone One', sans-serif;
+}
+
+p {
+    font-family: 'Inter', sans-serif;
+}
+
+img {
+    width: 100%;
+}
+
+iframe {
+    display: block;
+    margin: auto;
+}
+
+.border-bottom {
+    border-bottom: none !important;
+}
+
+.shadow-lg {
+    box-shadow: none !important;
+}
+
+.navbar-width {
+    max-width: 1320px !important;
+    margin: auto !important;
+}
+
+.fakeimg {
+    height: 200px;
+    background: white;
+    text-align: center;
+    mix-blend-mode: multiply;
+}
+
+.btn-dark,
+.btn-primary {
+    background-color: #7e67f6;
+    border: none;
+}
+
+.btn:hover {
+    background-color: #129b77;
+}
+
+.bg-primary {
+    background-color: #7e67f6 !important;
+}
+
+.bi {
+    fill: #7e67f6;
+    transition: fill .15s ease-in-out;
+}
+
+#Layer_2 {
+    /* fill: #129b77; */
+    fill: #845ea8;
+    transition: fill .15s ease-in-out;
+}
+
+#Layer_2:hover {
+    /* fill: #7e67f6; */
+    fill: #129b77;
+    transition: fill .15s ease-in-out;
+}
+
+#slideshow {
+    margin: auto;
+}
+
+a.navbar-brand {
+    transition: ease-in-out;
+}
+
+a.navbar-brand:hover {
+    transition: ease-in-out;
+}
+
+.accordion {
+    mix-blend-mode: multiply;
+}
+
+.card-img-top.d-block.img-fluid.rounded {
+    background-color: #fff0 !important;
+}
+
+.col-sm-3.mt-5.card.border-0 {
+    background-color: #fff0 !important;
+}
+
+.text-center {
+    max-width: 788px;
+    margin: auto;
+    
+}
+
+.bi:hover {
+    fill: #129b77 !important;
+    transition: fill .15s ease-in-out;
+}
+
+.img-wrapper {
+    display: inline-block;
+    width: 100px;
+    overflow: hidden;
+}
+
+/* head {background-color: #64499E;}
+        body {background-color: #00dcbf;}
+        p    {color: #000000;} */
+
+.icon-container {
+    display: flex;
+    gap: 10px;
+    padding-top: 5px;
+    padding-left: 5px;
+    font-size: 11px;
+    /* width:32px; */
+    /* width: 48px; */
+}
+
+.icon {
+    /* display: flex; */
+    /* gap: 10px; */
+    width: 20px;
+}
+
+.icon2 {
+    /* display: flex; */
+    /* gap: 10px; */
+    width: 32px;
+    height: 32px;
+}
+
+/* .icon { */
+    /* width: 50px; */
+    /* height: auto; */
+    /* Maintains aspect ratio */
+/* } */
