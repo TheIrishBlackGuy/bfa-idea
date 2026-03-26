@@ -1,5 +1,8 @@
 body {
     background-color: rgb(29, 103, 41);
+}
+
+.center {
     text-align: center;
 }
 
@@ -11,4 +14,16 @@ body {
     font-size: 11px;
     /* width:32px; */
     /* width: 48px; */
+}
+
+.details {
+    margin-left: 50px;
+}
+
+.details2 {
+    margin-left: 100px;
+}
+
+.details3 {
+    margin-left: 150px;
 }
