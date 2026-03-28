@@ -1,22 +1,27 @@
 body {
     background-color: rgb(49, 131, 64);
-/* font-family: Comic-sans; */
 
 }
+
+html {
+  font-size: 62.5%; }
+
+  /* font stuff */
+/*body {
+  font-size: 1.5em;  currently ems cause chrome bug misinterpreting rems on body element 
+  line-height: 1.6;
+  font-weight: 400;
+  font-family:  
+}*/
+
+    /* legit fonts */
+/* "DynaPuff", "Fuzzy Bubbles", "Audiowide", "Sofia",
+ "Rubik", "Sora", "Kanit", "Silkscreen", "Comic Neue",
+ "Irish Grover", "Acme", "Oxygen", "Rajdhani", "Unkempt", */
 
 .center {
     text-align: center;
     /* width: 128px; */
-}
-
-.icon-container {
-    display: flex;
-    gap: 100px;
-    padding-top: 5px;
-    padding-left: 5px;
-    font-size: 11px;
-    /* width:32px; */
-    /* width: 48px; */
 }
 
 .details {
@@ -29,4 +34,14 @@ body {
 
 .details3 {
     margin-left: 150px;
+}
+
+.icon-container {
+    display: flex;
+    gap: 100px;
+    padding-top: 5px;
+    padding-left: 5px;
+    font-size: 11px;
+    /* width:32px; */
+    /* width: 48px; */
 }
