@@ -3,18 +3,18 @@ body {
 
 }
 
-html {
+/* font stuff */
+/*html {
   font-size: 62.5%; }
 
-  /* font stuff */
-/*body {
+body {
   font-size: 1.5em;  currently ems cause chrome bug misinterpreting rems on body element 
   line-height: 1.6;
   font-weight: 400;
   font-family:  
 }*/
 
-    /* legit fonts */
+/* legit fonts */
 /* "DynaPuff", "Fuzzy Bubbles", "Audiowide", "Sofia",
  "Rubik", "Sora", "Kanit", "Silkscreen", "Comic Neue",
  "Irish Grover", "Acme", "Oxygen", "Rajdhani", "Unkempt", */
