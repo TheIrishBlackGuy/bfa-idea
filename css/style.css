@@ -3,6 +3,10 @@ body {
 
 }
 
+img {
+    width:128px;
+}
+
 /* font stuff */
 /*html {
   font-size: 62.5%; }
@@ -44,4 +48,11 @@ body {
     font-size: 11px;
     /* width:32px; */
     /* width: 48px; */
+}
+
+.images {
+
+    /* class="images" */
+    width: 128px;
+
 }
