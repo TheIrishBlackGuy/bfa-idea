@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(49, 131, 64);
+    background-color: rgb(57, 146, 73);
 
 }
 
@@ -23,7 +23,36 @@ body {
  "Rubik", "Sora", "Kanit", "Silkscreen", "Comic Neue",
  "Irish Grover", "Acme", "Oxygen", "Rajdhani", "Unkempt", */
 
+  a:link {
+    color: rgb(0, 48, 0);
+    text-decoration: none;
+  }
+
+  a:visited {
+    text-decoration: none;
+    color: rgb(0, 48, 0);
+    /* color: rgb(0, 80, 0); */
+  }
+
+  a:hover {
+    text-decoration: none;
+    color: rgb(192, 255, 192);
+  }
+
+  a:active {
+    text-decoration: none;
+    color: rgb(192, 192, 0);
+  }
+
+  td,
+  th {
+    color: #A0522D;
+  }
+
+
 .center {
+        padding-top: 5%;
+
     text-align: center;
     /* width: 128px; */
 }
@@ -40,6 +69,10 @@ body {
     margin-left: 150px;
 }
 
+.details4 {
+    margin-left: 45%;
+}
+
 .icon-container {
     display: flex;
     gap: 100px;
@@ -51,8 +84,6 @@ body {
 }
 
 .images {
-
     /* class="images" */
     width: 128px;
-
 }

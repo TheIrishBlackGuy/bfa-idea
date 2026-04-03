@@ -29,18 +29,18 @@ asset:
 - - cat - clown hat
 - - irene - blue/black jacket, red tipped hair
 - - survivors group
-- - - daria - blue 'V' sweater
+# - - - daria - blue 'V' sweater
 # - - - nabeeha - superman tee
 # - - - alisha - blue sweater
-- - - jupiter - black/red accents 
+# - - - jupiter - black/red accents 
 # - - - rhyme - red puffer
 # - - - khoa - beanie, black jacket, white tee
 # - - - jared - default fit
 - - bumass group
 - - - survivors
 - - - danny - 
-- - - bryan - cap, white jacket
-# - - - aron - bird colored sweater
+# - - - bryan - bread(drew self)
+# - - - aron - red plaid sweater(drew self)
 - - - leo - 
 - - - justin - navy jacket
 - - - cassie - maroon jacket
@@ -51,6 +51,8 @@ asset:
 - - - sophia - plaid jacket, dyed hair
 - - - akari - lanyard
 - - - blair - black leather
+
+# - - - jen - blue shirt(drew self)
 
 bfa plan:
 - write stories
