@@ -4,7 +4,7 @@ body {
 }
 
 img {
-    width:128px;
+    width: 128px;
 }
 
 /* font stuff */
@@ -23,50 +23,53 @@ body {
  "Rubik", "Sora", "Kanit", "Silkscreen", "Comic Neue",
  "Irish Grover", "Acme", "Oxygen", "Rajdhani", "Unkempt", */
 
-  a:link {
+a:link {
     color: rgb(0, 48, 0);
     text-decoration: none;
-  }
+}
 
-  a:visited {
+a:visited {
     text-decoration: none;
     color: rgb(0, 48, 0);
     /* color: rgb(0, 80, 0); */
-  }
+}
 
-  a:hover {
+a:hover {
     text-decoration: none;
     color: rgb(192, 255, 192);
-  }
+}
 
-  a:active {
+a:active {
     text-decoration: none;
     color: rgb(192, 192, 0);
-  }
+}
 
-  td,
-  th {
+td,
+th {
     color: #A0522D;
-  }
+}
 
 
 .center {
-        padding-top: 5%;
+    padding-top: 5%;
 
     text-align: center;
     /* width: 128px; */
 }
 
 .details {
-    margin-left: 50px;
+    /* margin-left: 50px; */
+    margin-left: 7.5%;
 }
 
 .details2 {
-    margin-left: 100px;
+    /* margin-left: 100px; */
+    margin-left: 11.25%;
 }
 
 .details3 {
-    margin-left: 150px;
+    /* margin-left: 150px; */
+    margin-left: 15%;
 }
 
 .details4 {

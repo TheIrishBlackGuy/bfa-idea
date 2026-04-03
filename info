@@ -26,7 +26,7 @@ asset:
 - friends
 - - tim - 
 - - erik - 
-- - cat - clown hat
+# - - cat - clown hat
 - - irene - blue/black jacket, red tipped hair
 - - survivors group
 # - - - daria - blue 'V' sweater
@@ -50,7 +50,7 @@ asset:
 - - - brandon - rice hat, red tipped hair
 - - - sophia - plaid jacket, dyed hair
 - - - akari - lanyard
-- - - blair - black leather
+# - - - blair - black leather
 
 # - - - jen - blue shirt(drew self)
 
@@ -69,12 +69,12 @@ bfa plan:
 - assets(pixel art)
 - - backgrounds
 - - - chibi(small scale) locations of levels
-- - items
-- - - 
+# - - items
+- - - logo
 - - characters
 - - - family
 - - - oldest friends
 - - - other friends
-- - - survivors 
+# - - - survivors 
 - - - bumasses
 - - - - can't do all, narrow down who 
