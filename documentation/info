@@ -41,9 +41,9 @@ asset:
 # - - - danny - (han drew)
 # - - - bryan - bread(drew self)
 # - - - aron - red plaid sweater(drew self)
-- - - leo - 
-- - - justin - navy jacket
-- - - cassie - maroon jacket
+# - - - leo - (leo drew)
+# - - - justin - navy jacket
+# - - - cassie - maroon jacket
 # - - - minh - skeleton (drew self)
 # - - - han - green sweater + doggo(drew self)
 # - - - andre - red jacket
@@ -54,6 +54,7 @@ asset:
 
 # - - - jen - blue shirt(drew self)
 # - - - evee - (drawing self)
+# - - - connor - (leo drew)
 bfa plan:
 - write stories
 - - figure out key details 
