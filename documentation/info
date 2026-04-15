@@ -23,11 +23,16 @@ asset:
 - - mom -
 - - dad -
 - - boots
+
 - friends
 - - tim - 
 - - erik - 
+- - adam - 
+- - charlie - 
+
 # - - cat - clown hat
 - - irene - blue/black jacket, red tipped hair
+
 - - survivors group
 # - - - daria - blue 'V' sweater
 # - - - nabeeha - superman tee
@@ -36,25 +41,29 @@ asset:
 # - - - rhyme - red puffer
 # - - - khoa - beanie, black jacket, white tee
 # - - - jared - default fit
+
 - - bumass group
-- - - survivors
+# - - - survivors
 # - - - danny - (han drew)
+
 # - - - bryan - bread(drew self)
 # - - - aron - red plaid sweater(drew self)
-# - - - leo - (leo drew)
-# - - - justin - navy jacket
-# - - - cassie - maroon jacket
-# - - - minh - skeleton (drew self)
-# - - - han - green sweater + doggo(drew self)
-# - - - andre - red jacket
+# - - - leo - (drew self)
+# - - - justin - navy jacket(cassie redrew self)
+# - - - cassie - maroon jacket(drew self)
 # - - - brandon - rice hat, red tipped hair
-- - - sophia - plaid jacket, dyed hair
+
+# - - - andre - red jacket
+# - - - han - green sweater + doggo(drew self)
+# - - - minh - skeleton (drew self)
+# - - - sophia - plaid jacket, dyed hair(drew self)
 - - - akari - lanyard
 # - - - blair - black leather(drew self)
 
 # - - - jen - blue shirt(drew self)
-# - - - evee - (drawing self)
+ - - - evee - (drawing self)
 # - - - connor - (leo drew)
+
 bfa plan:
 - write stories
 - - figure out key details 
