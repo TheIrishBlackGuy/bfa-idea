@@ -1,5 +1,6 @@
 body {
     background-color: rgb(57, 146, 73);
+    /* background-color:#0a1a2f */
 
 }
 
@@ -90,3 +91,19 @@ th {
     /* class="images" */
     width: 128px;
 }
+
+/* .container {
+  position: relative;
+  width: 100%;
+  max-width: 1600px;
+  margin: 0 auto;
+  padding: 0 20px;
+  box-sizing: border-box;
+  background-color: #A0522D;
+} */
+
+
+
+
+
+

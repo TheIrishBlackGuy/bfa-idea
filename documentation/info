@@ -27,8 +27,8 @@ asset:
 - friends
 - - tim - 
 - - erik - 
-- - adam - 
-- - charlie - 
+# - - adam - 
+# - - charlie - 
 
 # - - cat - clown hat
 - - irene - blue/black jacket, red tipped hair
