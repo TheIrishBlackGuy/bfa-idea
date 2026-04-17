@@ -11,7 +11,7 @@ body {
 }
 
 
-nav, header, h3, h4, h5 {
+nav, header, h1, h2, h3, h4, h5 {
 
   text-align: center;
 }
@@ -133,13 +133,14 @@ ul.disc {
 }
 
 
-#code,
+/* #code,
 #video,
 #threeD,
 #twoD,
 #other,
 #art,
-#blurb {
+#blurb, */
+#tab {
   background-color: #40985e;
   padding-left: 5%;
   padding-right: 5%;
@@ -277,3 +278,4 @@ a.navbar-brand:hover{
   width:100px; 
   overflow:hidden; 
 }
+
