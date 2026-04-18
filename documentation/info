@@ -22,16 +22,16 @@ asset:
 - - ella -
 - - mom -
 - - dad -
-- - boots
+# - - boots(removed)
 
 - friends
 - - tim - 
 - - erik - 
-# - - adam - 
-# - - charlie - 
+# - - adam - (charlie designed)(cassie drew)
+# - - charlie - (charlie designed)(cassie drew)
 
-# - - cat - clown hat
-- - irene - blue/black jacket, red tipped hair
+# - - cat - clown hat (cat designed)
+# - - irene - blue/black jacket, red tipped hair(drew self)
 
 - - survivors group
 # - - - daria - blue 'V' sweater
@@ -61,7 +61,7 @@ asset:
 # - - - blair - black leather(drew self)
 
 # - - - jen - blue shirt(drew self)
- - - - evee - (drawing self)
+# - - - evee - (drawing self)
 # - - - connor - (leo drew)
 
 bfa plan:
